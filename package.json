@@ -1,7 +1,7 @@
 {
-  "name": "flow_format_render_eslint",
+  "name": "flow_format_render_codesniffer",
   "version": "1.0.0",
-  "description": "Eslint format render",
+  "description": "Codesniffer format render",
   "main": "index.js",
   "directories": {
     "test": "test"
